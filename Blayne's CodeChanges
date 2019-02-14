@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>What Can this class do for me?</h2>
+
+<p id="demo">I don't know you tell me.</p>
+
+<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello Class!"'>Click Me!</button>
+
+</body>
+</html>
